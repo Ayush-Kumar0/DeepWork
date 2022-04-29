@@ -1,0 +1,47 @@
+body
+{
+  background-color:rgb(44, 44, 44);
+  font-size: 17px;
+  word-spacing:4px;
+  letter-spacing: 0.5px;
+}
+
+#First
+{
+  color:#aa2ba6;
+  background-color:rgb(78, 78, 75);
+  border-radius:7px;
+  padding: 10px;
+  margin: 5px;
+}
+#First>h1
+{
+  font-variant: small-caps;
+  letter-spacing:1px;
+  word-spacing:5px;
+  text-shadow: 1px 2px #2DBA6E;
+  text-align:center;
+  display:inline;
+}
+#author
+{
+  vertical-align:-4px;
+  display:inline;
+}
+
+
+.para
+{
+  background-color:#E0E0E0;
+  padding: 10px;
+  margin: 5px;
+  border-width: 11px;
+  border-style: double;
+  border-color: brown;
+  border-radius: 15px;
+}
+
+#Third
+{
+  border-image: url('../images/border.png') 100 stretch;
+}
